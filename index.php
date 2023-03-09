@@ -11,11 +11,11 @@
      <h1>Siru's Hairsaloon</h1>
      <nav>
         <ul>
-          <li><a href="">Yhteystiedot</a></li>
-          <li><a href="">Pyydä tarjous</a></li>
-          <li><a href="">Palvelumme</a></li>
-          <li><a href="">Hinnasto</a></li>
-          <li><a href="">Meistä</a></li>
+          <li><a href="index.php">Etusivu</a></li>
+          <li><a href="yhteystiedot.php">Yhteystiedot</a></li>
+          <li><a href="palvelumme.php">Palvelumme</a></li>
+          <li><a href="hinnasto.php">Hinnasto</a></li>
+          <li><a href="meista.php">Meistä</a></li>
         </ul>
      </nav>
     </header>
