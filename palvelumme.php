@@ -22,16 +22,20 @@
      <main>
      <h4>Hiusten leikkaukset ja värjäykset</h4>
     <p>Meiltä saat kaikki perinteiset parturi- ja kampaamopalvelut.<br>
-    Toteutusten suhteen vain mielikuvituksesi on rajana ja teemmekin rohkeasti myös persoonallisia hiuksia.<br><br>
+    Toteutusten suhteen vain mielikuvitus on rajana ja teemmekin rohkeasti myös persoonallisia hiuksia.<br><br>
 
-    Saat meiltä myös hiuksillesi ja uudelle värillesi sopivat kotihoito-ohjeet ja tuotteet</p>      
+    Saat meiltä myös hiuksillesi ja uudelle värillesi sopivat kotihoito-ohjeet ja tuotteet.</p>      
     
     <h4>Kampaukset ja meikit</h4>
-    <p>TÄHÄN SISÄLTÖTEKSTIÄ!!!!</p>     
+    <p>Toteutamme kampaukset sekä meikin erityiseen päivääsi. <br>
+    On kyse sitten suuresta juhlasta tai hienommasta illallistapaamisesta, toteutamme toiveesi.<br>
+    Voit aina varata meille myös ajan pikameikkiin ja/tai -kampaukseen,<br>
+    jolloin voimme tehdä tavallisesta arkipäivästäsikin hieman fiinimmän.</p>     
     
-    <p>TÄHÄN MYÖS TARJOUSPYYNTÖ LOMAKE????<p>
- 
-
+    <div class="kuva kuva--oikea">       
+      <img src="https://via.placeholder.com/250x150" alt="">
+    </div> 
+    
     </main>
     <footer>
       <p>Siru's Hairsaloon<br>

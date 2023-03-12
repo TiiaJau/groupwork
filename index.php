@@ -20,8 +20,9 @@
      </nav>
     </header>
      <main>
-       <h3>Tervetuloa kaunistautumaan!</h3>
-       <p>Tähän lyhyt kuvaus yrityksestä ja jotain kuvitusta?</p>
+       <h3>Tervetuloa palveltavaksemme!</h3>
+       <p>Siru's Hairsaloon on pieni ja idyllinen parturi-kampaamo Helsingin keskustassa.<br>
+      Tärkein tavoitteemme on saada sinulle leveä hymy kasvoillesi, tervetuloa!</p>
     <div class="kuva kuva--oikea">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div>       

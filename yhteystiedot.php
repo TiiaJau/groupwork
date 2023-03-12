@@ -32,7 +32,7 @@
       +358501234567<br>
       info@sirushairsaloon.fi</p>
 
-      <p>Tähän ehkä jotain kuvaa?</p>
+  
     <div class="kuva kuva--oikea">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div>  
