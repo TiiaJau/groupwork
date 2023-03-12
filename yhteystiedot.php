@@ -33,7 +33,7 @@
       info@sirushairsaloon.fi</p>
 
   
-    <div class="kuva kuva--oikea">       
+    <div class="kuvaseitsemän">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div>  
 

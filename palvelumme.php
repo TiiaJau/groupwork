@@ -32,10 +32,10 @@
     Voit aina varata meille myös ajan pikameikkiin ja/tai -kampaukseen,<br>
     jolloin voimme tehdä tavallisesta arkipäivästäsikin hieman fiinimmän.</p>     
     
-    <div class="kuva kuva--oikea">       
+    <div class="kuvakuusi">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div> 
-    
+
     </main>
     <footer>
       <p>Siru's Hairsaloon<br>

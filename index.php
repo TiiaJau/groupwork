@@ -23,7 +23,7 @@
        <h3>Tervetuloa palveltavaksemme!</h3>
        <p>Siru's Hairsaloon on pieni ja idyllinen parturi-kampaamo Helsingin keskustassa.<br>
       Tärkein tavoitteemme on saada sinulle leveä hymy kasvoillesi, tervetuloa!</p>
-    <div class="kuva kuva--oikea">       
+    <div class="kuvayksi">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div>       
     

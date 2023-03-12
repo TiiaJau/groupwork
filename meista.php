@@ -24,7 +24,7 @@
        <p>Siru's Hairsaloon on vuonna 2005 perustettu parturi-kampaamo,<br>
       josta löydät avun silloin, kun kaipaat hiusten leikkausta tai värjäystä.<br>
     Meiltä saat avun myös silloin, kun haluat näyttävän kampauksen ja/tai meikin, niin arkeen kuin juhlaan. </p>
-    <div class="kuva kuva--oikea">       
+    <div class="kuvakaksi">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div>       
     
@@ -36,7 +36,7 @@
     asiakkaan toiveet lämminhenkisessä ja kodikkaassa ympäristössä.<br>
     Olen erikoistunut muotoonleikkauksiin ja ihonsävyyn sopivien värien löytämiseen. <br>
     </p>
-    <div class="kuva kuva--oikea">       
+    <div class="kuvakolme">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div> 
 
@@ -45,7 +45,7 @@
     Sirun tiimistä siitä lähtien. Voimani työpäiviin ammennan asiakkaista,<br>
     ja heidän mielenkiintoisista tarinoistaan! Olen erikoistunut värjäyksiin, <br>
     ja toteutan mielelläni villeimmätkin värjäystoiveet!</p>
-    <div class="kuva kuva--oikea">       
+    <div class="kuvaneljä">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div> 
 
@@ -54,7 +54,7 @@
      vuonna 2012. Sirulla aloitin vuonna 2018 ja teen pääasiassa meikkejä ja kampauksia,<br>
      jotka ovatkin suuri intohimoni.<br>
     Jos Sirulla ja Annella on kalnterit täynnä, toteutan myös muita kampaamopalveluita.</p>
-    <div class="kuva kuva--oikea">       
+    <div class="kuvaviisi">       
       <img src="https://via.placeholder.com/250x150" alt="">
     </div> 
 
