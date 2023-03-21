@@ -73,10 +73,14 @@ Logon tausta: #c1aeee
     }
     ::-webkit-scrollbar-thumb
     {
-      background: #573999af;
+      background: #5739992c;
       border-radius: 5px;
-      border: 6px solid transparent;
+      border: 6px;
       background-clip: content-box;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #6e66b694;
     }
 
     ::-webkit-scrollbar-button:vertical:start:decrement {
