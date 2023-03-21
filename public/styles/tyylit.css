@@ -280,7 +280,7 @@ Logon tausta: #c1aeee
     background: rgb(113,102,171);
     background: radial-gradient(circle, rgba(113,102,171,1) 25%, rgba(193,174,238,1) 65%);
     padding: 0.2rem 0.2rem 0.2rem 0.2rem;
-    margin-top: 0.9rem;
+    margin-top: 0.8rem;
     width: 100%;
     max-width: 194px;
     height: 100%;
@@ -483,7 +483,7 @@ Logon tausta: #c1aeee
 
   .etusivu-kuva {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     width: 465px;
   }
