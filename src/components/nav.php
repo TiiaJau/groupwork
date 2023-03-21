@@ -27,6 +27,10 @@
                 $sivu = "../src/view/etusivu.php";
                 break;
 
+            case 'meilletoihin':
+                $sivu = "../src/view/meilletoihin.php";
+                break;
+
             default:
                 header("HTTP/1.0 404 Not Found"); 
                 break;

@@ -23,6 +23,7 @@
               <li><a href="?sivu=palvelut">Palvelumme</a></li>
               <li><a href="?sivu=hinnasto">Hinnasto</a></li>
               <li><a href="?sivu=meista">Meistä</a></li>
+              <li><a href="?sivu=meilletoihin">Meille töihin</a></li>
             </ul>
           </nav>
         </header>
