@@ -4,14 +4,14 @@
   <h4>Värjäykset</h4>
   <div class='arrange-container'>
     <p class='arrange-left'>
-      Tyviväri                        
-      Värjäys, lyhyet hiukset         
-      Värjäys, puolipitkät hiukset    
-      Värjäys, pitkät hiukset         
-      Raidat, lyhyet hiukset          
-      Raidat, puolipitkät hiukset     
-      Raidat, pitkät hiukset          
-      Extra pitkän/paksun hiuksen lisä
+      Tyviväri<br>                        
+      Värjäys, lyhyet hiukset<br>         
+      Värjäys, puolipitkät hiukset<br>    
+      Värjäys, pitkät hiukset<br>         
+      Raidat, lyhyet hiukset<br>          
+      Raidat, puolipitkät hiukset<br>     
+      Raidat, pitkät hiukset<br>          
+      Extra pitkän/paksun hiuksen lisä<br>
     </p>
     <p class='arrange-right'>
       60 €
@@ -29,12 +29,12 @@
   <h4>Kampaukset</h4>
   <div class='arrange-container'>
     <p class='arrange-left'>
-      Pikakampaus 30 min               
-      Kampaus, lyhyet hiukset          
-      Kampaus, puolipitkät hiukset     
-      Kampaus, pitkät hiukset          
-      Hääkampaus                       
-      Extra pitkän/paksun hiuksen lisä 
+      Pikakampaus 30 min<br>               
+      Kampaus, lyhyet hiukset<br>          
+      Kampaus, puolipitkät hiukset<br>     
+      Kampaus, pitkät hiukset<br>          
+      Hääkampaus<br>                       
+      Extra pitkän/paksun hiuksen lisä<br> 
     </p>
     <p class='arrange-right'>
       30 €
@@ -49,10 +49,10 @@
   <h4>Meikkauspalvelut</h4>
   <div class='arrange-container'>
     <p class='arrange-left-mp'>
-      Pikameikki             
-      Päivämeikki            
-      Juhlameikki            
-      Häämeikki                      
+      Pikameikki<br>             
+      Päivämeikki<br>            
+      Juhlameikki<br>           
+      Häämeikki<br>                      
     </p>
     <p class='arrange-right'>
       35 €
@@ -61,4 +61,7 @@
       KYSY
     </p>
   </div>
+<p> Arvoisat asiakkaamme, peruutukset viimeistään vuorokausi ennen varattua aikaa,
+muutoin joudumme valitettavasti perimään 50 % varatun ajan hinnasta. Laskutuslisä on 5 €.
+</p>
 </main>

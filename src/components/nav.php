@@ -1,5 +1,9 @@
 <?php
-    if(isset($_GET['sivu']) == FALSE && $_GET['sivu']!="../src/view/etusivu.php"){
+    if(isset($_GET['sivu']) ? $_GET['sivu'] : '') 
+       $sivu = "../src/view/etusivu.php";
+       $sivu = "";
+    
+    if(isset($_GET['sivu']) == FALSE && $sivu!="../src/view/etusivu.php"){
         $sivu = "../src/view/etusivu.php";
         include($sivu);
     }
@@ -25,6 +29,10 @@
             
             case 'etusivu':
                 $sivu = "../src/view/etusivu.php";
+                break;
+
+            case 'meilletoihin':
+                $sivu = "../src/view/meilletoihin.php";
                 break;
 
             default:

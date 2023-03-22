@@ -16,10 +16,10 @@
   <hr>
   <h2>Yhteystiedot</h2>
     <p class='arrange-left'>
-      Siru's Hairsaloon
-      Kuviteltukatu 1
-      00100,Helsinki
-      +358501234567
+      Siru's Hairsaloon<br>
+      Kuviteltukatu 1<br>
+      00100 Helsinki<br>
+      +358501234567<br>
       info@sirushairsaloon.fi
     </p>
   <div class="yhteystiedot-kuva">       
