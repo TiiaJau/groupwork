@@ -29,7 +29,7 @@
     </div>
       <p>
         Valmistuin parturikampaajaksi vuonna 2010 ja olen toiminut<br>
-        Sirun tiimistä siitä lähtien. Voimani työpäiviin ammennan asiakkaista,<br>
+        Sirun tiimissä siitä lähtien. Voimani työpäiviin ammennan asiakkaista,<br>
         ja heidän mielenkiintoisista tarinoistaan! Olen erikoistunut värjäyksiin, <br>
         ja toteutan mielelläni villeimmätkin värjäystoiveet!
       </p>
